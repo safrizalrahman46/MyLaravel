@@ -53,6 +53,7 @@
               </div>
           </div>
           <!-- /.col -->
+
           <div>
             <p class="mb-4">
                 <a href="/register" class="text-center"> Register Akun Baru</a>
